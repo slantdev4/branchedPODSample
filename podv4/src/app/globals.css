@@ -1,0 +1,28 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  } */
+/*   
+  .preview-container {
+    border: 1px solid #ccc;
+    padding: 16px;
+    max-width: 100%;
+    width: 320px;
+    text-align: center;
+  }
+  
+  .preview-element {
+    width: 120px;
+    height: 120px;
+  }
+  
+  .error-message {
+    margin-top: 16px;
+    color: red;
+  } */
